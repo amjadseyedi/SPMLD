@@ -1,7 +1,4 @@
-# Self-Paced Multi-Label Learning with Diversity (SPMLD)
-
-  ## https://arxiv.org/abs/1910.03497
-
+# [Self-Paced Multi-Label Learning with Diversity (SPMLD)](http://proceedings.mlr.press/v101/seyedi19a.html)
   
   *Seyed Amjad Seyedi, S.Siamak Ghodsi, Fardin Akhlaghian, Mahdi Jalili, and Parham Moradi*
   
