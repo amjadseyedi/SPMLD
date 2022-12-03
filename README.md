@@ -8,7 +8,7 @@
   
   *http://proceedings.mlr.press/v101/seyedi19a.html*
   
-<p align=center><img src="fig.svg" width="50%" height="50%"></p>
+<p align=center><img src="fig.svg" width="70%" height="70%"></p>
 
   # Abstract
 
